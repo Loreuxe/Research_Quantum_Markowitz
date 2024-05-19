@@ -156,3 +156,4 @@ For any inquiry you may contact the authors :
 - pablo.thomassin@edu.devinci.fr
 - sonia.djebali@devinci.fr
 - vincent-marc.lambert@devinci.fr
+- guillaume.guerard@devinci.fr
